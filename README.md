@@ -5,33 +5,29 @@
 <a href="mailto:marcobonato09@gmail.com"><img src="https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white" height=25></a>
 <a href="https://codeforces.com/profile/marcobonato"><img src="https://img.shields.io/badge/-codeforces-yellow?style=flat&logo=codeforces&logoColor=white" height=25></a>
 
-<img src="https://upload.wikimedia.org/wikipedia/fr/3/38/Logo_Ajin_ja.png" width="200" align="right">
-
-I'm (at the time of making this) a 16-year Italian old teenager. I love mathematics and I enjoy computer programming and theory.
+I'm a 17-year old Italian teenager. I love mathematics and computer science.
 ## Skills and qualifications
 
 - Please view more on my [LinkedIn Page](https://www.linkedin.com/in/marco-bonato-849734231/)
 - I qualified for the [OUCC](https://www.bebras.uk/index.php?action=content&id=42) by achieving a top 10% score worldwide on the [UK Bebras Challenge](https://www.bebras.uk/index.php?action=welcome) and achieved a distinction score in the first round (top 25%).
 - I practice algorithmic problem solving on [Codeforces](https://codeforces.com)
 - I am willing and able to learn new skills and frameworks (e.g. Pytorch)
-- Full proficiency in Python
-- Intermediate proficiency in C++
+- Proficiency in Python and C++
 - Able to understand and use documentation, for example to interact with API's (e.g. I made a Discord Bot using Discord's Bot API)
 
 ## Projects and work
 
 - Please refer to my [Github projects page](https://github.com/MarcoBonato09?tab=repositories) for my projects.
+- I also built a Neural network from scratch (very useful for learning theory, but not worth it to show on Github since the code isn't that special)
 - Please view my algorithmic problem-solving work on my [Codeforces page](https://codeforces.com/profile/marcobonato).
 
 ## Hobbies and things I find fun 
 
-- Tennis
 - Going out with friends
-- Swimming
-- Working out
+- Spending time with family
+- Running
+- Strength training
+- Drawing
 - Mathematics
-- Netflix
-- Computer Science
-- Programming
+- Computer Science & programming
 - Model United Nations (I have attended conferences such as [MUNish](https://munish.nl/), [HMUN](https://hmun.nl/) and [BSNMUN](https://bsnmun.com/))
-- Self-Improvement and discipline
